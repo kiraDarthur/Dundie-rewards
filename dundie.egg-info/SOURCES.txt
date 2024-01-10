@@ -1,0 +1,8 @@
+README.md
+setup.py
+dundie/__init__.py
+dundie/__main__.py
+dundie.egg-info/PKG-INFO
+dundie.egg-info/SOURCES.txt
+dundie.egg-info/dependency_links.txt
+dundie.egg-info/top_level.txt
